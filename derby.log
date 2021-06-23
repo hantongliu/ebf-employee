@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 23 13:07:18 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017a-388d-8d54-00000f4aad48 
+on database directory memory:/home/hliu/ebf-employee/0d1319a9-e46e-4fe9-ad76-9ae7669dc0f9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/hliu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.11+9-Ubuntu-0ubuntu2.20.04
+user.dir=/home/hliu/ebf-employee
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-74-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
